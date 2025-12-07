@@ -1,34 +1,39 @@
-Rock Paper Scissors Game 🎮
+# **🎮 ROCK PAPER SCISSORS GAME**
 
-A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
+A **simple and interactive Rock-Paper-Scissors game** built using **HTML, CSS, and JavaScript**.  
 Test your luck and strategy against the computer and keep track of your wins!
 
-Features ✨
+---
 
-Play against the computer in a classic Rock-Paper-Scissors match
+## **✨ FEATURES**
 
-Real-time score tracking for player and computer
+- Play against the computer in a classic Rock-Paper-Scissors match  
+- Real-time score tracking for player and computer  
+- Clean and responsive design for all screen sizes  
+- Easy-to-use interface for a fun user experience  
 
-Clean and responsive design for all screen sizes
+---
 
-Easy-to-use interface for a fun user experience
+## **🖼️ DEMO SCREENSHOT**
 
-Demo Screenshot 🖼️
+![Game Screenshot](assets/screenshot.png)
 
-Technologies Used 🛠️
+---
 
-HTML – Structure of the game
+## **🛠️ TECHNOLOGIES USED**
 
-CSS – Styling and layout
+- **HTML** – Structure of the game  
+- **CSS** – Styling and layout  
+- **JavaScript** – Game logic and interactions  
 
-JavaScript – Game logic and interactions
+---
 
-How to Run Locally 🚀
+## **🚀 HOW TO RUN LOCALLY**
 
-Clone the repository:
+1. Clone the repository:
 
+```bash
 git clone https://github.com/N221121/rock-paper-scissors.git
-
 
 Navigate into the project folder:
 
