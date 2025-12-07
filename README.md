@@ -35,17 +35,20 @@ Test your luck and strategy against the computer and keep track of your wins!
 ```bash
 git clone https://github.com/N221121/rock-paper-scissors.git
 
-Navigate into the project folder:
+2. Navigate into the project folder:
 
 cd rock-paper-scissors
 
 
-Open index.html in any web browser to play the game.
+3. Open index.html in any web browser to play the game.
 
-Author 👤
+## **👤 AUTHOR**
 
-N221121
+**N221121**
 
-License 📄
+---
 
-This project is licensed under the MIT License.
+## **📄 LICENSE**
+
+This project is licensed under the **MIT License**.
+
