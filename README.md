@@ -1,55 +1,46 @@
-# Rock Paper Scissors Game
+Rock Paper Scissors Game 🎮
 
-A simple Rock-Paper-Scissors game built with JavaScript, HTML, and CSS.
+A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
+Test your luck and strategy against the computer and keep track of your wins!
 
----
+Features ✨
 
-## 🎮 Features
+Play against the computer in a classic Rock-Paper-Scissors match
 
-- Play Rock-Paper-Scissors against the computer
-- Score tracking
-- Simple and interactive UI
-- Fully responsive design
+Real-time score tracking for player and computer
 
-## 🛠️ Technologies Used
+Clean and responsive design for all screen sizes
 
-- HTML
-- CSS
-- JavaScript
+Easy-to-use interface for a fun user experience
 
----
+Demo Screenshot 🖼️
 
-## 🚀 How to Run Locally
+Technologies Used 🛠️
 
-1. Clone the repository:
-```bash
+HTML – Structure of the game
+
+CSS – Styling and layout
+
+JavaScript – Game logic and interactions
+
+How to Run Locally 🚀
+
+Clone the repository:
+
 git clone https://github.com/N221121/rock-paper-scissors.git
+
 
 Navigate into the project folder:
 
 cd rock-paper-scissors
 
 
-Open index.html in your browser.
+Open index.html in any web browser to play the game.
 
-✨ Author
+Author 👤
 
 N221121
 
-📄 License
+License 📄
 
 This project is licensed under the MIT License.
-
-
----
-
-### ✅ Instructions:
-
-1. Save this as `README.md` in your project root (`rock_paper_scissor` folder).  
-2. Make sure your screenshot is in `assets/screenshot.png`.  
-3. Stage, commit, and push the README:
-
-```powershell
-git add README.md
-git commit -m "Add README for Rock Paper Scissors project"
-git push origin main
